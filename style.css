@@ -1,5 +1,5 @@
 #Banner {
-  background-color: rgba(3, 7, 56, 0.925);
+  background-image:url(images/Nature_Zen_10.jpg);
   height: 600px;
   width: auto;
   margin-bottom: 0px;
@@ -8,6 +8,7 @@
 h1 {
 font-family: Georgia, 'Times New Roman', Times, serif;
 font-size: 50px;
+font-weight: bolder;
 color: rgb(119, 100, 24);
 text-justify: justify;
 text-align: center;
@@ -15,10 +16,13 @@ padding-top: 150px;
 box-shadow: black;
 }
 
+
+
+
 #Banner p {
 font-family: fantasy;
 font-size: 30px;
-color: black;
+color: white;
 text-align: center;
 
 }
@@ -37,6 +41,7 @@ h2 {
   color: rgb(2, 3, 29);
   text-align: center;
   margin: 0px;
+
 }
 
 #Introduction p {

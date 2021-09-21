@@ -1,0 +1,66 @@
+#Banner {
+  background-color: rgba(3, 7, 56, 0.925);
+  height: 600px;
+  width: auto;
+  margin-bottom: 0px;
+}
+
+h1 {
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 50px;
+color: rgb(119, 100, 24);
+text-justify: justify;
+text-align: center;
+padding-top: 150px;
+box-shadow: black;
+}
+
+#Banner p {
+font-family: fantasy;
+font-size: 30px;
+color: black;
+text-align: center;
+
+}
+
+#Introduction {
+  background-color: rgba(242, 242, 245, 0.973);
+  margin-top: 0px;
+  height: 200px;
+  width: auto;
+
+}
+
+h2 {
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 40px;
+  color: rgb(2, 3, 29);
+  text-align: center;
+  margin: 0px;
+}
+
+#Introduction p {
+font-family: cursive;
+font-size: 30px;
+color: rgb(10, 8, 8);
+text-align: center;
+border: 2px solid black;
+box-shadow: 5px 10px 20px black;
+}
+
+#Gallery {
+  background-color: rgba(160, 159, 168, 0.6);
+  display: flex;
+  height: 800px;
+}
+
+
+.Pictures {
+  height: 250px;
+  margin: 10px;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 10px;
+  box-shadow: 10px 20px 30px black;
+
+}

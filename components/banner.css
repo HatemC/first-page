@@ -1,0 +1,49 @@
+.Banner {
+  background-image:url(../images/Nature_Zen_10.jpg);
+  height: 600px;
+  width: auto;
+  margin-bottom: 0px;
+
+}
+
+.Banner p {
+font-family: fantasy;
+font-size: 50px;
+color: white;
+text-align: center;
+
+}
+
+.Banner-nav {
+
+ /* margin-left: 600px;*/
+ display: flex;
+ /* grid-template-columns: 1fr 1fr 1fr;*/
+  justify-content:center;
+  align-items: center;
+  flex-direction: row;
+}
+.btn-banner {
+  background-color: red;
+  width: 200px;
+  font-size: 30px;
+  border: 1px solid black;
+  box-shadow: 5px 5px 10px black;
+  margin: 5px;
+  border-radius: 20px;
+
+
+}
+
+
+.btn-banner p{
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: white;
+font-size: 35px;
+text-align: center;
+
+}
+.btn-banner a {
+text-decoration: none;
+
+}

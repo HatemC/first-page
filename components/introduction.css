@@ -1,0 +1,16 @@
+#Introduction {
+  background-color: rgba(242, 242, 245, 0.973);
+  margin-top: 0px;
+  height: 200px;
+  width: auto;
+
+}
+
+#Introduction p {
+font-family: cursive;
+font-size: 30px;
+color: rgb(10, 8, 8);
+text-align: center;
+border: 2px solid black;
+box-shadow: 5px 10px 20px black;
+}

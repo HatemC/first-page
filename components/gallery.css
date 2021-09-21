@@ -1,0 +1,8 @@
+#Gallery {
+  background-color: rgba(160, 159, 168, 0.6);
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-content: center;
+  justify-items: center;
+  height: 800px;
+}

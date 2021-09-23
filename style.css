@@ -2,6 +2,7 @@
 @import "components/introduction.css" ;
 @import "components/gallery.css" ;
 @import "components/pictures.css" ;
+@import "components/navigation.css";
 
 h1 {
 font-family: Georgia, 'Times New Roman', Times, serif;
@@ -10,7 +11,7 @@ font-weight: bolder;
 color: rgb(119, 100, 24);
 text-justify: justify;
 text-align: center;
-padding-top: 150px;
+padding-top: 100px;
 box-shadow: black;
 }
 
